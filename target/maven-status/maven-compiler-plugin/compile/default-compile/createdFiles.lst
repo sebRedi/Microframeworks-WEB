@@ -1,0 +1,6 @@
+edu\escuelaing\arep\Request.class
+edu\escuelaing\arep\HttpServer.class
+edu\escuelaing\arep\App.class
+edu\escuelaing\arep\Response.class
+edu\escuelaing\arep\Route.class
+edu\escuelaing\arep\MicroFramework.class
