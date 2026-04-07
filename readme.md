@@ -1,6 +1,4 @@
-# Project Title
-
-Microframework Web -- REST Services and Static File Handling
+# Microframework Web -- REST Services and Static File Handling
 
 This project implements a lightweight Java web framework capable of
 serving static files and defining REST services using lambda
